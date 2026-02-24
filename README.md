@@ -1,4 +1,4 @@
-# LogicBox – Pattern Generator & Number Analyzer
+# LogicBox – Pattern Generator & Number Analyzer (Python Project)
 
 ## Project Overview
 
